@@ -1,4 +1,4 @@
-function log() {
-  console.log(greeting);
-  var greeting = "Hello World!";
+function myFunction() {
+  var y = 2
+  console.log(y)
 }
